@@ -1,0 +1,21 @@
+node_modules
+dist
+.env.local
+
+# Python
+eaida-backend/venv/
+eaida-backend/.venv/
+eaida-backend/__pycache__/
+eaida-backend/**/__pycache__/
+eaida-backend/*.pyc
+
+# Backend data and secrets
+eaida-backend/storage/
+eaida-backend/.env
+
+# Frontend secrets
+eaida-frontend/.env
+
+# OS/editor
+.DS_Store
+*.log

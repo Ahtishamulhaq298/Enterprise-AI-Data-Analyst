@@ -1,0 +1,13 @@
+.venv
+venv
+__pycache__
+*.pyc
+storage/app.db
+storage/uploads
+storage/models
+storage/reports
+storage/chroma
+storage/logs
+.git
+.pytest_cache
+tests
